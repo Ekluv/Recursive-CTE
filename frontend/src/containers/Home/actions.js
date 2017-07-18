@@ -22,6 +22,7 @@ export var updateParent = (parentId, employeeId) => {
                 window.alert(response.error);
                 return;
             }
+            window.alert('Updated');
             dispatch({
                 type: C.UPDATE_PARENT,
                 data: response
