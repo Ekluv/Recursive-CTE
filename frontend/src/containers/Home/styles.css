@@ -1,0 +1,16 @@
+body {
+	background-color: #f4f4f4;
+}
+
+.app h2 {
+	text-align: center;
+	padding-top: 15px;
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+.fullscreen, .a-canvas.a-grab-cursor {
+	position: initial;
+}
