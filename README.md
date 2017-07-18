@@ -7,7 +7,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
     For Backend
     > cd recursive_cte_demo
     > Make a virtual env using command `virtualenv -p python3 .`
-    > Activate virtual env using `source/bin/activate` in linux
+    > Activate virtual env using `source bin/activate` in linux
     > pip install -r requirements.txt
     > Create a user for postgres : "createuser <YOUR_DBUSER> --pwprompt"
     > Create a db for the application : "createdb cte_demo"
